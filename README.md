@@ -24,32 +24,29 @@ An interactive React app to **visualize core Data Structures & Algorithms** with
 
 ---
 
-## ⚡ Getting Started
+### 🌟 Future Enhancements
+- 🔍 Add **A\*** Pathfinding Algorithm visualizer.
+- 🧩 Generate random mazes for advanced pathfinding practice.
+- ⚖️ Support weighted edges in graph visualizations.
+- 🎞️ Export animations as GIFs or videos for sharing.
+- 👤 Implement user authentication to save and share custom graphs.
 
-Clone the repo and install dependencies:
+---
 
-```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd dsa-visualizer
-npm install
-npm start
-Open your browser and go to http://localhost:3000 to start exploring!
+### 🛠️ Technologies Used
+- ⚛️ React.js with hooks & functional components
+- 🎨 CSS modules for modular styling
+- 💡 Vanilla JavaScript for implementing core algorithms
 
-🌟 Future Enhancements
-
-🔍 Add A* Pathfinding Algorithm visualizer.
-🧩 Generate random mazes for pathfinding practice.
-⚖️ Support weighted edges in graphs.
-🎞️ Export animations as GIFs or videos.
-👤 User authentication to save/share graphs.
-🛠️ Technologies Used
-⚛️ React.js with hooks & functional components
-🎨 CSS modules for component styling
-💡 Vanilla JavaScript for algorithm logic
+---
 
 ## 🙋‍♀️ Let's Connect
 
 **C. Sree Sowmya**  
 📧 sreesowmya2k4@gmail.com  
 🔗 [GitHub](https://github.com/SreeSowmya2004) | [LinkedIn](https://linkedin.com/in/sree-sowmya-0b6742283)
+
+---
+
+
 
