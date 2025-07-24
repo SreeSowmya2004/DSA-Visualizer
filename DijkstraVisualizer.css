@@ -1,0 +1,21 @@
+.grid {
+  display: inline-block;
+  margin-top: 20px;
+}
+.row {
+  display: flex;
+}
+.cell {
+  width: 20px;
+  height: 20px;
+  border: 1px solid #ccc;
+}
+.cell.start {
+  background-color: green;
+}
+.cell.end {
+  background-color: red;
+}
+.cell.wall {
+  background-color: black;
+}
