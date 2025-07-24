@@ -47,3 +47,9 @@ Open your browser and go to http://localhost:3000 to start exploring!
 🎨 CSS modules for component styling
 💡 Vanilla JavaScript for algorithm logic
 
+## 🙋‍♀️ Let's Connect
+
+**C. Sree Sowmya**  
+📧 sreesowmya2k4@gmail.com  
+🔗 [GitHub](https://github.com/SreeSowmya2004) | [LinkedIn](https://linkedin.com/in/sree-sowmya-0b6742283)
+
